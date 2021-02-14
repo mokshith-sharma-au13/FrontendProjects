@@ -78,8 +78,10 @@
 ## Visual Guide for opening the Project in browser:
 
 > Run the appropriate commands for the Target Applications,in the Terminal.
-> ![](guide/project_directory_Image.png)
-> ![](guide/start_command_for_project.png)
+##Project Directory
+> ![](guide/project_directory_Image.PNG)
+##Start Command
+> ![](guide/start_command_for_project.PNG)
 
 
 
@@ -111,12 +113,18 @@
 ## Visual Images of the project running:
 
 > Run the appropriate commands for the Target Applications,in the Terminal: npm start
-> ![](guide/project_directory_Image.png)
-> ![](guide/start_command_for_project.png)
-> ![](guide/Image1.png)
-> ![](guide/Image2.png)
-> ![](guide/Image3.png)
-> ![](guide/Image4.png)
+##Project Directory
+> ![](guide/project_directory_Image.PNG)
+##Start Command
+> ![](guide/start_command_for_project.PNG)
+##Home Page
+> ![](guide/Image1.PNG)
+##Services
+> ![](guide/Image2.PNG)
+##Projects Portfolio
+> ![](guide/Image3.PNG)
+##Contact Me
+> ![](guide/Image4.PNG)
 
 
 ## Credits [![Twitter Follow](https://img.shields.io/twitter/follow/mokshith?style=social)](https://twitter.com/mokshith)
